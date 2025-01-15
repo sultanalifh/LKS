@@ -1,3 +1,3 @@
-# learning
+# Lomba Kejuruan Siswa
 
-A new Flutter project.
+Rpl, Android dan Desktop.
